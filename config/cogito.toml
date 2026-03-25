@@ -1,0 +1,47 @@
+# Cogito configuration
+
+[agent]
+name = "cogito"
+cycle_interval_ms = 2000
+max_actions_per_cycle = 10
+memory_capacity_tokens = 200000
+
+[reasoning]
+model = "gpt-4-turbo"
+temperature = 0.3
+max_tokens = 4096
+chain_of_thought = true
+
+[evaluation]
+dimensions = [
+    "self_awareness",
+    "theory_of_mind",
+    "metacognition",
+    "causal_reasoning",
+    "creative_divergence",
+    "long_horizon_planning",
+    "world_modeling",
+]
+probes_per_dimension = 50
+scoring_method = "weighted_composite"
+gpu_accelerated = true
+
+[consciousness]
+probe_depth = 3
+mapping_resolution = 100
+confidence_threshold = 0.85
+
+[autonomy]
+enabled = true
+payment_protocol = "402"
+self_sustain = true
+budget_limit_usd = 100.0
+
+[api]
+host = "0.0.0.0"
+port = 8420
+cors_origins = ["*"]
+
+[visualization]
+output_dir = "reports"
+format = "svg"
