@@ -208,12 +208,7 @@ Default weights emphasize causal reasoning and metacognition as key AGI differen
 Official first experimental token of the Cogito agent:
 
 ```
-2uCE7Wqk1a6pzevZfssKB2HYCZtDoZqD4SDfShEUpump
-```
-
-Reserve supply is locked for the next **62 years** via Streamflow:
-
-🔒 [Token Lock Dashboard](https://app.streamflow.finance/token-dashboard/solana/mainnet/2uCE7Wqk1a6pzevZfssKB2HYCZtDoZqD4SDfShEUpump)
+2uCE7Wqk1a6pzevZfssKB2HYCZtDoZqD4SDfShEUBAGS
 
 ---
 
