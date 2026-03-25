@@ -208,7 +208,7 @@ Default weights emphasize causal reasoning and metacognition as key AGI differen
 Official first experimental token of the Cogito agent:
 
 ```
-2uCE7Wqk1a6pzevZfssKB2HYCZtDoZqD4SDfShEUBAGS
+FyAdjNXm6hpH2CqbGz8RyEYHA5w5WScqoDJUDokZBAGS
 
 ---
 
